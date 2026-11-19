@@ -19,9 +19,9 @@
 ## 2. Registro das sessões
 | Participante | Perfil (faixa etária / moradia) | Situação | Pergunta feita | Compreensão | Utilidade (1–5) | Entendeu que é estimativa? | Comentário |
 |---|---|---|---|---|---|---|---|
-| P1 |  | S1 |  |  |  |  |  |
-| P1 |  | S2 |  |  |  |  |  |
-| P1 |  | S3 |  |  |  |  |  |
+| P1 | 25–34 anos / apartamento (Grande SP) | S1 | "Quanto meu chuveiro gasta por mês?" | Acertou | 4 | Sim | Compreendeu os ~83,2 kWh/mês e o custo estimado com tarifa de referência de R$ 1,00/kWh, mas observou que o formato da residência limita soluções solares. |
+| P2 | 45–54 anos / casa térrea (Grande SP) | S2 | "Como economizar na conta de luz do banho sem gastar?" | Acertou | 5 | Sim | Achou clara a alternativa de reduzir o tempo de banho em 30% e usar a posição verão, além de notar que os números são estimativas. |
+| P3 | 35–44 anos / sobrado (Grande SP) | S3 | "Vale a pena instalar aquecedor solar?" | Acertou em parte | 4 | Sim | Entendeu o investimento estimado de R$ 7.000 e o retorno em ~11,7 anos no cenário base, destacando que tarifa, reajuste e orçamento real alteram o resultado. |
 
 ## 3. Ajustes realizados após os testes
 | Problema observado | Quem relatou | Ajuste feito (arquivo/commit) | Resultado ao retestar |
