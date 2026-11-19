@@ -4,9 +4,8 @@
 ## Integrantes
 | Nome completo | RM |
 |---|---|
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] |
-| [PREENCHER] | [PREENCHER] |
+| Ricardo Algazi | 569600 |
+| Vinicius Molena | 571270 |
 
 ## Público e problema
 **Público:** famílias de residências urbanas na Grande São Paulo (distribuidora Enel SP) que usam chuveiro elétrico. A residência-modelo tem 4 pessoas.
