@@ -1,0 +1,1 @@
+Python 3.9 ou superior. Nenhuma biblioteca externa é necessária.

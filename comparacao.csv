@@ -1,0 +1,5 @@
+alternativa,nome,kwh_ano,investimento_rs,manutencao_ano_rs,custo_total_rs,economia_horizonte_rs,economia_ano1_rs,payback_anos,co2_kg_ano,co2_evitado_kg_ano
+A0,Situação atual: chuveiro elétrico,998.0,0.0,0.0,14970.0,0.0,0.0,0.0,38.4,0.0
+A1,Eficiência: banhos mais curtos,698.6,0.0,0.0,10479.0,4491.0,299.4,0.0,26.9,11.5
+A2,Renovável: aquecimento solar + apoio elétrico,299.4,7000.0,100.0,12991.0,1979.0,598.6,11.7,11.5,26.9
+A3,Combinação: banhos curtos + aquecimento solar,209.6,7000.0,100.0,11643.7,3326.3,688.42,10.2,8.1,30.4

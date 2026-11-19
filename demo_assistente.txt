@@ -1,0 +1,90 @@
+USUÁRIO: Quanto meu chuveiro gasta por mês?
+
+ASSISTENTE:
+Estimativa para 4 pessoas com banhos de 10 min: o chuveiro consome cerca de 83,2 kWh por mês (998 kWh/ano), o que custa em torno de R$ 83,17 por mês com tarifa de R$ 1,00/kWh. Como calculei: energia (kWh) = potência (kW) x tempo de uso (h); usei 5.500 W na posição inverno (5 meses/ano) e 3.200 W na posição verão. Veja a etiqueta do seu chuveiro e a tarifa na sua conta para um valor mais próximo do real.
+
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R1], [R5] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Somos 3 pessoas, banho de 15 minutos e a tarifa é 0,90. Quanto gasto?
+
+ASSISTENTE:
+Estimativa para 3 pessoas com banhos de 15 min: o chuveiro consome cerca de 93,6 kWh por mês (1.123 kWh/ano), o que custa em torno de R$ 84,21 por mês com tarifa de R$ 0,90/kWh. Como calculei: energia (kWh) = potência (kW) x tempo de uso (h); usei 5.500 W na posição inverno (5 meses/ano) e 3.200 W na posição verão. Veja a etiqueta do seu chuveiro e a tarifa na sua conta para um valor mais próximo do real.
+
+Usei os valores que você informou: pessoas = 3, minutos por banho = 15, tarifa (R$/kWh) = 0,90.
+Limitações: são estimativas com premissas declaradas (3 pessoas, banho de 15 min, tarifa de referência de R$ 0,90/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R1], [R5] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Como economizar no banho?
+
+ASSISTENTE:
+Dica sem custo: reduzir o tempo de banho em 30% (de 10 para 7,0 min) poupa ~299 kWh/ano, cerca de R$ 299,40 por ano. Use também a posição 'verão' sempre que o clima permitir (a fonte [R3] cita redução de até 30% na conta do chuveiro), feche a torneira ao se ensaboar e confira se a fiação do chuveiro está adequada.
+
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R3] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Vale a pena instalar aquecedor solar?
+
+ASSISTENTE:
+Aquecimento solar (renovável) com apoio elétrico: o sol aquece a água em um reservatório e o chuveiro só complementa nos dias fracos. Com a hipótese de 70% da energia vindo do sol, o consumo do banho cairia de 998 para ~299 kWh/ano. Investimento estimado: R$ 7.000,00; economia no 1º ano já descontando manutenção: R$ 598,60; retorno em ~11,7 anos. Dentro de 15 anos, no cenário informado, ele compensa (economia total de ~R$ 1.979,00). Exige espaço no telhado, sol sem sombra e orçamento de instalador.
+
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R4], [R6] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Compare as alternativas
+
+ASSISTENTE:
+Comparação para o mesmo uso (banho, 4 pessoas), período de 15 anos, tarifa R$ 1,00/kWh:
+- Situação atual: chuveiro elétrico: 998 kWh/ano; investimento R$ 0,00; custo total em 15 anos R$ 14.970,00; economia vs. hoje R$ 0,00; retorno imediato; CO2 evitado 0,0 kg/ano.
+- Eficiência: banhos mais curtos: 699 kWh/ano; investimento R$ 0,00; custo total em 15 anos R$ 10.479,00; economia vs. hoje R$ 4.491,00; retorno imediato; CO2 evitado 11,5 kg/ano.
+- Renovável: aquecimento solar + apoio elétrico: 299 kWh/ano; investimento R$ 7.000,00; custo total em 15 anos R$ 12.991,00; economia vs. hoje R$ 1.979,00; retorno 11,7 anos; CO2 evitado 26,9 kg/ano.
+- Combinação: banhos curtos + aquecimento solar: 210 kWh/ano; investimento R$ 7.000,00; custo total em 15 anos R$ 11.643,70; economia vs. hoje R$ 3.326,30; retorno 10,2 anos; CO2 evitado 30,4 kg/ano.
+
+Recomendação: comece por A1 (custo zero, economia de ~R$ 299,40/ano).
+O aquecimento solar compensa neste cenário (retorno em ~11,7 anos); a opção com maior economia em 15 anos é A3.
+
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R1], [R3], [R4], [R6] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Qual o impacto ambiental?
+
+ASSISTENTE:
+Impacto ambiental (estimativa): seu chuveiro hoje consome cerca de 998 kWh/ano, o que equivale a ~38,4 kg de CO2/ano com o fator médio da rede brasileira (38,5 kg CO2/MWh). O aquecimento solar evitaria ~26,9 kg/ano. É pouco porque a rede elétrica do Brasil já é majoritariamente renovável; o ganho ambiental maior é reduzir consumo e pressão sobre a rede em horários de pico. Fabricação, instalação e descarte dos coletores também têm impacto que não foi quantificado aqui.
+
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+Referências: [R2], [R5] (lista completa: digite 'referências').
+================================================================================
+
+USUÁRIO: Quais as referências?
+
+ASSISTENTE:
+Referências usadas (consultadas em 18/11/2026):
+[R1] ANEEL - reajuste tarifário anual 2026 da Enel SP (efeito médio 10,18%, vigência a partir de 4/7/2026). https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/
+[R2] MCTI - fator médio de emissão do SIN em 2023: 38,5 kg CO2/MWh (noticiado pela Eixos). https://eixos.com.br/brasil-tem-menor-taxa-de-emissao-de-carbono-na-geracao-eletrica-em-onze-anos/
+[R3] A Gazeta - chuveiro na posição verão pode reduzir a conta em até 30%. https://www.agazeta.com.br/especiais/reportagens/chuveiro-na-posicao-verao-pode-reduzir-valor-da-conta-em-ate-30-0617
+[R4] Monitor do Mercado (2026) - aquecimento solar com reservatório de ~300 L: R$ 5.000 a R$ 9.000 em casa preparada. https://monitordomercado.com.br/economia-2/422211-quanto-custa-instalar-aquecimento-solar-de-agua-para-4-pessoas-em-2026-o-boiler-e-apenas-uma-parte-do-projeto/
+[R5] Consumidor Moderno - segundo Procel/Eletrobras, o chuveiro elétrico responde por ~7% da energia elétrica produzida no Brasil. https://consumidormoderno.com.br/energia-solar-termica-a-possivel-super-heroina-na-crise-energetica/
+[R6] ENTAC/ANTAC - estudo de aquecimento solar em baixa renda: retorno de ~137 meses com tarifa social. https://eventos.antac.org.br/index.php/entac/article/download/823/507/1660
+
+Premissas e origem de cada dado: dados/premissas.csv.
+Limitações: são estimativas com premissas declaradas (4 pessoas, banho de 10 min, tarifa de referência de R$ 1,00/kWh, 70% de fração solar, custo de instalação médio). Sua conta real, o equipamento que você tem, o clima e o orçamento de um instalador podem mudar bastante os valores. Nada aqui é economia garantida.
+================================================================================
+
+USUÁRIO: Quanto custa uma pizza?
+
+ASSISTENTE:
+Não entendi sua pergunta e prefiro não chutar. Este módulo trata de gasto de energia no banho, formas de economizar, aquecimento solar, impacto ambiental, referências e limitações.
+
+Olá! Sou o módulo de Energia do Citizen Assist AI. Ajudo a entender e reduzir o gasto com água quente do banho (chuveiro elétrico). Você pode perguntar, por exemplo:
+- Quanto meu chuveiro gasta por mês? (ex.: '3 pessoas, 12 minutos, tarifa 0,90')
+- Como economizar no banho?
+- Vale a pena instalar aquecedor solar?
+- Compare as alternativas.
+- E o impacto ambiental?
+- Quais são as referências e limitações?
+================================================================================

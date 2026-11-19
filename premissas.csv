@@ -1,0 +1,17 @@
+id,descricao,valor,unidade,tipo,origem_ou_justificativa
+n_pessoas,Moradores da residência-modelo,4,pessoas,estimado,Perfil de família escolhido pelo grupo (hipótese do cenário).
+banhos_dia_por_pessoa,Banhos por pessoa por dia,1,banhos/dia,estimado,Hipótese do grupo; ajustável pelo usuário.
+duracao_banho_min,Duração média de um banho,10,min,estimado,Hipótese do grupo; ajustável pelo usuário no assistente.
+reducao_tempo_banho,Redução de tempo de banho na alternativa A1,0.3,fração,estimado,Hipótese do grupo (10 min -> 7 min). Valor a ser medido nos testes com usuários.
+potencia_inverno_w,Potência do chuveiro na posição inverno,5500,W,estimado,Valor típico de chuveiros 220 V; conferir a etiqueta do equipamento real.
+potencia_verao_w,Potência do chuveiro na posição verão,3200,W,estimado,Valor típico de chuveiros 220 V; conferir a etiqueta do equipamento real.
+meses_inverno,Meses/ano usando a posição inverno,5,meses,estimado,Hipótese para a Grande São Paulo (aprox. maio a setembro).
+dias_mes,Dias por mês,30,dias,convenção,Convenção de cálculo.
+tarifa_kwh,Tarifa residencial com tributos,1.0,R$/kWh,estimado,"Valor de referência arredondado; a tarifa real varia por faixa, ICMS e bandeira. Conferir na conta da Enel SP [R1]."
+reajuste_tarifa_anual,Reajuste anual da tarifa no cenário base,0.0,fração/ano,estimado,Cenário conservador (sem reajuste real). Sensibilidade com 5%/ano em resultados/sensibilidade.csv.
+aq_solar_investimento,Investimento em aquecimento solar com reservatório ~300 L (instalado),7000,R$,estimado,Ponto médio da faixa R$ 5.000-9.000 citada em [R4] para instalação em casa já preparada. Exige orçamento real.
+aq_solar_fracao_solar,Fração da energia de aquecimento suprida pelo sol (média anual),0.7,fração,estimado,"Hipótese do grupo; depende de coletor, orientação, sombreamento e clima. Não validada com projeto."
+aq_solar_manutencao_ano,Manutenção anual do aquecimento solar,100,R$/ano,estimado,Hipótese do grupo (limpeza/inspeção).
+aq_solar_vida_util_anos,Vida útil do aquecimento solar,15,anos,estimado,Hipótese do grupo; conferir garantia/documentação do fabricante.
+horizonte_anos,Período de referência comum para comparar as alternativas,15,anos,convenção,Igual à vida útil assumida do sistema solar; sem valor residual (conservador).
+fator_emissao_tco2_mwh,Fator médio de emissão do SIN,0.0385,tCO2/MWh,público,"MCTI, média de 2023 (38,5 kg CO2/MWh), noticiada em [R2]. Fator varia por ano/mês."
