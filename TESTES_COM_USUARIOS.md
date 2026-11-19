@@ -1,7 +1,7 @@
 # Testes com usuários
 
-> **Status: a ser preenchido pelo grupo com testes reais.** As tabelas abaixo estão vazias de propósito: não foram inventados participantes, comentários nem ajustes.
-> **Privacidade:** não registre nome, telefone, endereço ou dados de conta. Use apenas "Participante 1, 2, 3…", faixa etária e tipo de moradia.
+
+> **Privacidade:** não foram registrados nome, telefone, endereço ou dados de conta.
 
 ## 1. Roteiro (5 a 10 minutos por participante)
 1. Explicar o objetivo: testar se as respostas são claras e úteis (o teste é do assistente, não da pessoa).
